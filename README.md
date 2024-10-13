@@ -83,7 +83,3 @@ After setting up the environment, you can generate data by using one of the foll
 For questions, support, or further information, please contact:
 
 - **Email**: [kimbell@korea.ac.kr](mailto:kimbell@korea.ac.kr)
-
----
-
-Feel free to make any additional changes or let me know if there's anything else you'd like to adjust.
